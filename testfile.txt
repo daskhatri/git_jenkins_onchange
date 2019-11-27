@@ -1,0 +1,1 @@
+This is raw file just to check the git configuration with jenkiins.
